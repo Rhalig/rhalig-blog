@@ -30,7 +30,7 @@ function HomePage() {
             error molestiae maiores iusto. Exercitationem, vel.
           </p>
           <div className="fakeImage"></div>
-          <p>
+          <p className="last-p">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
             iusto perspiciatis dicta neque fugit excepturi rem dolore illo
             voluptates sint exercitationem natus, suscipit at consectetur

@@ -38,9 +38,9 @@ function HomePage() {
             quibusdam tenetur quaerat enim error molestiae maiores iusto.
             Exercitationem, vel.
           </p>
-          <a href="#" class="read">
-            Read more
-          </a>
+          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
+            <a class="read">Read more</a>
+          </Link>
           <div class="border"></div>
           <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
           <span>10 Aralık 2020, 2 min read</span>
@@ -54,9 +54,9 @@ function HomePage() {
             quibusdam tenetur quaerat enim error molestiae maiores iusto.
             Exercitationem, vel.
           </p>
-          <a href="#" class="read">
-            Read more
-          </a>
+          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
+            <a class="read">Read more</a>
+          </Link>
           <div class="border"></div>
           <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
           <span>10 Aralık 2020, 2 min read</span>
@@ -70,9 +70,9 @@ function HomePage() {
             quibusdam tenetur quaerat enim error molestiae maiores iusto.
             Exercitationem, vel.
           </p>
-          <a href="#" class="read">
-            Read more
-          </a>
+          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
+            <a class="read">Read more</a>
+          </Link>
         </article>
       </div>
     </Layout>
