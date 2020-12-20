@@ -10,69 +10,26 @@ function HomePage() {
       </Head>
       <div class="content">
         <article>
-          <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
-          <span>10 Aralık 2020, 2 min read</span>
+          <h1>CSS : Seçiciler</h1>
+          <span>20 Aralık 2020, 2 min read</span>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-            iusto perspiciatis dicta neque fugit excepturi rem dolore illo
-            voluptates sint exercitationem natus, suscipit at consectetur
-            reprehenderit mollitia doloribus ad non! Lorem ipsum dolor sit, amet
-            consectetur adipisicing elit. Velit ullam, architecto, modi soluta
-            corporis adipisci nobis praesentium repellendus, repudiandae officia
-            quibusdam tenetur quaerat enim error molestiae maiores iusto.
-            Exercitationem, vel.
+            Yeni bir yazıma daha hoşgeldiniz. Bu yazımda sizlere CSS'teki seçicilerden bahsedeceğim. İsterseniz hemen başlayalım CSS'te 5 tür seçme işlemi vardır. Hemen ilk seçicimiz ile başlayalım.
+            İlk seçicimizin ismi element seçici ismindende anlayacagınız üzere bu seçim işlemi ile html kodumuzdaki elementleri seçebiliyoruz. Bir örnek ile hemen daha iyi anlayalım.
           </p>
-          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
+          <Link href="/css-seciciler">
             <a class="read">Read more</a>
           </Link>
           <div class="border"></div>
-          <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
-          <span>10 Aralık 2020, 2 min read</span>
+          <h1>CSS : Renkler</h1>
+          <span>19 Aralık 2020, 3 min read</span>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-            iusto perspiciatis dicta neque fugit excepturi rem dolore illo
-            voluptates sint exercitationem natus, suscipit at consectetur
-            reprehenderit mollitia doloribus ad non! Lorem ipsum dolor sit, amet
-            consectetur adipisicing elit. Velit ullam, architecto, modi soluta
-            corporis adipisci nobis praesentium repellendus, repudiandae officia
-            quibusdam tenetur quaerat enim error molestiae maiores iusto.
-            Exercitationem, vel.
+          CSS'te 3 tane renk grubu vardır. Başlıca saymak gerekir ise background color , text color ve son olarak ise border colordır. Background color konusundan başlayalım , background color
+            anlayabileceğiniz üzere seçtiğimiz element , id veya classın arkaplanına renk vermemizi sağlar.
           </p>
-          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
+          <Link href="/css-renkler">
             <a class="read">Read more</a>
           </Link>
           <div class="border"></div>
-          <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
-          <span>10 Aralık 2020, 2 min read</span>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-            iusto perspiciatis dicta neque fugit excepturi rem dolore illo
-            voluptates sint exercitationem natus, suscipit at consectetur
-            reprehenderit mollitia doloribus ad non! Lorem ipsum dolor sit, amet
-            consectetur adipisicing elit. Velit ullam, architecto, modi soluta
-            corporis adipisci nobis praesentium repellendus, repudiandae officia
-            quibusdam tenetur quaerat enim error molestiae maiores iusto.
-            Exercitationem, vel.
-          </p>
-          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
-            <a class="read">Read more</a>
-          </Link>
-          <div class="border"></div>
-          <h1>Yazılımcılar tasarım bilmeli mi ?</h1>
-          <span>10 Aralık 2020, 2 min read</span>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-            iusto perspiciatis dicta neque fugit excepturi rem dolore illo
-            voluptates sint exercitationem natus, suscipit at consectetur
-            reprehenderit mollitia doloribus ad non! Lorem ipsum dolor sit, amet
-            consectetur adipisicing elit. Velit ullam, architecto, modi soluta
-            corporis adipisci nobis praesentium repellendus, repudiandae officia
-            quibusdam tenetur quaerat enim error molestiae maiores iusto.
-            Exercitationem, vel.
-          </p>
-          <Link href="/yazilimcilar-tasarim-bilmeli-mi">
-            <a class="read">Read more</a>
-          </Link>
         </article>
       </div>
     </Layout>

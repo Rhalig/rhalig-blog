@@ -16,14 +16,14 @@ function Navigation() {
             </Link>
           </div>
           <div className="github">
-            <Link href="https://twitter.com/rhaligdev">
+            <Link href="https://github.com/Rhalig">
               <a>
                 <img src="/Github.png"></img>
               </a>
             </Link>
           </div>
           <div className="spotify">
-            <Link href="https://twitter.com/rhaligdev">
+            <Link href="https://open.spotify.com/user/faseatteriufin3z0gd0ww5as?si=g_jOQjA4Q9aIUQnNkO55mA">
               <a>
                 <img src="/Spotify.png"></img>
               </a>
